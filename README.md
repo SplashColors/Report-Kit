@@ -1,4 +1,4 @@
-visual Report Designer
+Visual Report Designer
 
 # Report-Kit
 Issue Tracker for Report Kit
